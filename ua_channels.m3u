@@ -1,0 +1,343 @@
+﻿#EXTM3U
+#EXTINF:0,1 Zahidny
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch073/index.m3u8
+#EXTINF:0,1+1
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch002/index.m3u8
+#EXTINF:0,112HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch011/index.m3u8
+#EXTINF:0,2+2
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch013/index.m3u8
+#EXTINF:0,3 studio
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a053/index.m3u8
+#EXTINF:0,34 TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch044/index.m3u8
+#EXTINF:0,ATR
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch036/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05e/index.m3u8
+#EXTINF:0,Bigudi
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch028/index.m3u8
+#EXTINF:0,Bolt
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05n/index.m3u8
+#EXTINF:0,Business
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch038/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a059/index.m3u8
+#EXTINF:0,Channel 402
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch047/index.m3u8
+#EXTINF:0,Channel 5
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch005/index.m3u8
+#EXTINF:0,Dacha
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch027/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch070/index.m3u8
+#EXTINF:0,Discovery Science SD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch062/index.m3u8
+#EXTINF:0,Discovery Showcase HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch080/index.m3u8
+#EXTINF:0,Drama UA
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a04t/index.m3u8
+#EXTINF:0,ECO TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch071/index.m3u8
+#EXTINF:0,Enter Film
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch111/index.m3u8
+#EXTINF:0,Epoque
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05l/index.m3u8
+#EXTINF:0,Espresso TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch024/index.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch097/index.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch096/index.m3u8
+#EXTINF:0,Extrme Sports
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch088/index.m3u8
+#EXTINF:0,FIne Living
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch060/index.m3u8
+#EXTINF:0,Fauna
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05k/index.m3u8
+#EXTINF:0,Football 1
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch086/index.m3u8
+#EXTINF:0,Football 2
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch087/index.m3u8
+#EXTINF:0,Fox HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch121/index.m3u8
+#EXTINF:0,Fox Live
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05b/index.m3u8
+#EXTINF:0,Galichina
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05t/index.m3u8
+#EXTINF:0,Glas
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch032/index.m3u8
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch078/index.m3u8
+#EXTINF:0,Horizont TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05z/index.m3u8
+#EXTINF:0,Hromadske
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05s/index.m3u8
+#EXTINF:0,ICTV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch007/index.m3u8
+#EXTINF:0,ID XTRA
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05f/index.m3u8
+#EXTINF:0,Indigo
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch043/index.m3u8
+#EXTINF:0,Inter
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch003/index.m3u8
+#EXTINF:0,Jim Jam
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05c/index.m3u8
+#EXTINF:0,K1
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch025/index.m3u8
+#EXTINF:0,K2
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch026/index.m3u8
+#EXTINF:0,KMT
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch040/index.m3u8
+#EXTINF:0,KMT1
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05u/index.m3u8
+#EXTINF:0,KRT
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch037/index.m3u8
+#EXTINF:0,Kiev TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch017/index.m3u8
+#EXTINF:0,Kultura
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05p/index.m3u8
+#EXTINF:0,Kvartal TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05i/index.m3u8
+#EXTINF:0,LALE
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch056/index.m3u8
+#EXTINF:0,M1
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch099/index.m3u8
+#EXTINF:0,M2
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch100/index.m3u8
+#EXTINF:0,MAXXI TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch033/index.m3u8
+#EXTINF:0,MGM HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05h/index.m3u8
+#EXTINF:0,MTV Dance
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a057/index.m3u8
+#EXTINF:0,MTV HD live
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch106/index.m3u8
+#EXTINF:0,MTV Hits
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch109/index.m3u8
+#EXTINF:0,MTV Rocks
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a056/index.m3u8
+#EXTINF:0,Malyatko TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch039/index.m3u8
+#EXTINF:0,Mega
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch029/index.m3u8
+#EXTINF:0,Mezzo Live HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch101/index.m3u8
+#EXTINF:0,Miledy TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch016/index.m3u8
+#EXTINF:0,Music BOX
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch108/index.m3u8
+#EXTINF:0,NLO TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch042/index.m3u8
+#EXTINF:0,NTK
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05x/index.m3u8
+#EXTINF:0,NTN
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch023/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch077/index.m3u8
+#EXTINF:0,Nation Geographic SD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch068/index.m3u8
+#EXTINF:0,National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch067/index.m3u8
+#EXTINF:0,Nauka
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05j/index.m3u8
+#EXTINF:0,News 24
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch009/index.m3u8
+#EXTINF:0,News Network
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch030/index.m3u8
+#EXTINF:0,News One
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch014/index.m3u8
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch055/index.m3u8
+#EXTINF:0,Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch085/index.m3u8
+#EXTINF:0,Novy Channel
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch008/index.m3u8
+#EXTINF:0,OCE
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch051/index.m3u8
+#EXTINF:0,OTV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch098/index.m3u8
+#EXTINF:0,Pervy Delovoy
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch022/index.m3u8
+#EXTINF:0,Pixel
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch048/index.m3u8
+#EXTINF:0,Plus Plus
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch050/index.m3u8
+#EXTINF:0,Pravda Tut HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch081/index.m3u8
+#EXTINF:0,Pro Vse
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch084/index.m3u8
+#EXTINF:0,RAI
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch041/index.m3u8
+#EXTINF:0,Rada
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch034/index.m3u8
+#EXTINF:0,SET
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch112/index.m3u8
+#EXTINF:0,STB
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch006/index.m3u8
+#EXTINF:0,Silence TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05y/index.m3u8
+#EXTINF:0,Sonce UA
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch046/index.m3u8
+#EXTINF:0,Sony Sci-Fi
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch110/index.m3u8
+#EXTINF:0,Sony Turbo
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05g/index.m3u8
+#EXTINF:0,TET
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch004/index.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch063/index.m3u8
+#EXTINF:0,TRK Karpaty
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05r/index.m3u8
+#EXTINF:0,TRK Ukraina
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch012/index.m3u8
+#EXTINF:0,TV 1000 Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch127/index.m3u8
+#EXTINF:0,TV 1000 Megahit HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch128/index.m3u8
+#EXTINF:0,TV 1000 Premium HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch129/index.m3u8
+#EXTINF:0,Televsesvit
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch082/index.m3u8
+#EXTINF:0,Terra
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05m/index.m3u8
+#EXTINF:0,Tonis HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch019/index.m3u8
+#EXTINF:0,Trofey
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch074/index.m3u8
+#EXTINF:0,UA Krym
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05v/index.m3u8
+#EXTINF:0,UA-Nationalny
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch001/index.m3u8
+#EXTINF:0,Unian TV
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch021/index.m3u8
+#EXTINF:0,VH1 European
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05d/index.m3u8
+#EXTINF:0,Viasat Explore
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch065/index.m3u8
+#EXTINF:0,Viasat Nature
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/a05a/index.m3u8
+#EXTINF:0,Viasat Nature/History HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch075/index.m3u8
+#EXTINF:0,Viasat Sport HD
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch093/index.m3u8
+#EXTINF:0,XSport
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch092/index.m3u8
+#EXTINF:0,ZIK
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch015/index.m3u8
+#EXTINF:0,ZOOM
+#EXTVLCOPT:network-caching=1000
+http://46.149.185.7:8000/play/ch052/index.m3u8
