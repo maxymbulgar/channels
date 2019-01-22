@@ -1,0 +1,155 @@
+﻿#EXTM3U
+#EXTINF:-1,Бокс ТВ HD
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,Xsport TV HD
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+#EXTINF:-1,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+#EXTINF:-1,Betis TV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,Chelsea TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8
+#EXTINF:-1,Extreme sport
+http://81.25.234.43:8083/tv/extremesport/playlist.m3u8
+#EXTINF:-1,Most Video TV HD
+http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
+#EXTINF:-1,Setanta Sport
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1,Беларусь 5
+http://95.46.208.76:9898/belarus5
+#EXTINF:-1,Точка Отрыва
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/159/index.m3u8
+#EXTINF:-1,Setanta
+https://185-132-179-146.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1,NBA
+https://tinyurl.com/yaovh28v
+#EXTINF:-1,Viasat Sport HD
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288421056/index.m3u8
+#EXTINF:-1,Viasat Golf
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288404097/index.m3u8
+#EXTINF:-1,Футбол
+http://92.243.113.179:8080/Futbol/index.m3u8?token=nts_tv
+#EXTINF:-1,Матч! Футбол1
+http://92.243.113.179:8080/Match!Futbol1/index.m3u8?token=nts_tv
+#EXTINF:-1,MATCH Премьер / Наш Футбол
+http://185-8-178-140.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1,Setanta Sports
+http://185-132-179-146.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1,Футбол
+http://91.203.236.134:11760/football
+#EXTINF:-1,NBA
+https://tinyurl.com/yaovh28v
+#EXTINF:-1,Бокс ТВ
+http://91.90.253.73:8080/CH733_std/index.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://91.90.253.73:8080/CH835_std/index.m3u8
+#EXTINF:-1,Матч! Премьер HD
+http://91.90.253.73:8080/CH670_std/index.m3u8
+#EXTINF:-1,Матч! HD
+http://91.90.253.73:8080/CH669_std/index.m3u8
+#EXTINF:-1,Футбол 1http://91.90.253.73:8080/CH725_std/index.m3u8
+#EXTINF:-1,Футбол 2http://91.90.253.73:8080/CH726_std/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://185-8-178-140.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://185-125-230-172.livesports24.online/ruseurosport2.m3u8
+#EXTINF:-1,Матч!
+http://185-8-178-139.livesports24.online/ooomatch.m3u8
+#EXTINF:-1,Матч! Арена
+http://185-125-230-182.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1,Матч! Игра
+http://89-39-106-80.livesports24.online/migra.m3u8
+#EXTINF:-1,Матч! Наш Спорт
+http://185-132-179-146.livesports24.online/mnashsport.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://185-8-178-140.livesports24.online/matchfoot1.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://185-8-178-140.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://185-8-178-140.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1,Матч! Премьер
+http://185-8-178-140.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1,Setanta Sports
+http://185-132-179-146.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1,Setanta Sports+
+http://185-132-179-146.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1,КХЛ ТВ
+http://185-8-178-138.livesports24.online/rukhl.m3u8
+#EXTINF:-1,Kazsport
+http://185-232-52-51.livesports24.online/qazsportkz.m3u8
+#EXTINF:-1,Беларусь 5 Спорт
+http://185-125-230-182.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,Матч!
+http://185-8-178-139.livesports24.online/ooomatch.m3u8
+#EXTINF:-1,Матч! Арена
+http://185-125-230-182.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1,Матч! Игра
+http://89-39-106-80.livesports24.online/migra.m3u8
+#EXTINF:-1,Матч! Наш Спорт
+http://185-132-179-146.livesports24.online/mnashsport.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://185-8-178-140.livesports24.online/matchfoot1.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://185-8-178-140.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://185-8-178-140.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1,Матч! Премьер
+http://185-8-178-140.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1,Setanta Sports
+http://185-132-179-146.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1,Setanta Sports+
+http://185-132-179-146.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1,КХЛ ТВ
+http://185-8-178-138.livesports24.online/rukhl.m3u8
+#EXTINF:-1,КХЛ ТВ HD
+http://185-232-52-51.livesports24.online/khlhdru.m3u8
+#EXTINF:-1,Kazsport
+http://185-232-52-51.livesports24.online/qazsportkz.m3u8
+#EXTINF:-1,Беларусь 5 Спорт
+http://185-125-230-182.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,Sport TV 1 (Portugal) HD
+http://185-132-179-146.livesports24.online/ptsporttv1.m3u8
+#EXTINF:-1,Sport TV 2 (Portugal) HD
+http://185-132-179-146.livesports24.online/portugalsport2.m3u8
+#EXTINF:-1,Sport TV 3 (Portugal) HD
+http://185-125-230-182.livesports24.online/sport3tvpt.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://185-125-230-172.livesports24.online/btsportone.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://185-8-178-139.livesports24.online/btsportsport2.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://181-215-15-225.livesports24.online/btsporteurope.m3u8
+#EXTINF:-1,Sport Klub 1 HD
+http://79-143-176-76.livesports24.online/rssk1.m3u8
+#EXTINF:-1,Sport Klub 2 HD
+http://89-39-106-80.livesports24.online/2sportklub.m3u8
+#EXTINF:-1,Sport Klub 3 HD
+http://181-215-15-225.livesports24.online/spkl3.m3u8
+#EXTINF:-1,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,YAS Sports HD
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:-1,Extreme Sports
+http://91.90.253.66:8080/CH730_std/index.m3u8
+#EXTINF:-1,КХЛ ТВ HD
+http://91.90.253.66:8080/CH623_std/index.m3u8
+#EXTINF:-1,Футбол 1 UA
+http://91.90.253.73:8080/CH725_std/index.m3u8
+#EXTINF:-1,Футбол 2 UA
+http://91.90.253.73:8080/CH726_std/index.m3u8
+#EXTINF:-1,Спорт 1 UA
+http://91.90.253.66:8080/CH629_std/index.m3u8
+#EXTINF:-1,Спорт 2 UA
+http://91.90.253.66:8080/CH630_std/index.m3u8
