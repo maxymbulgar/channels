@@ -1,0 +1,67 @@
+﻿#EXTM3U
+#EXTINF:-1,U.HD
+http://81.16.141.100:8080/hls_get/cameraFeed.m3u8
+#EXTINF:-1,ViP Premiere HD
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+#EXTINF:-1,ViP Comedy HD
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288433562/index.m3u8
+#EXTINF:-1,Star Cinema HD
+http://78.159.32.6:8089
+#EXTINF:-1,Star Family HD
+http://78.159.32.6:8090
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,FilMax HD
+http://hls.goodgame.ru/hls/152833.m3u8
+#EXTINF:-1,Box Cinema HD
+http://hls.goodgame.ru/hls/120729.m3u8
+#EXTINF:-1,Bollywood HD
+http://stream.euroasia.lfstrm.tv/bollywood_hd/1/index.m3u8
+#EXTINF:-1,STR TV
+http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,Fox
+http://31.130.23.243:81/udp/238.1.2.4:1234
+#EXTINF:-1,KINO 24
+http://82.193.71.93:80/Kino24LV/video.m3u8
+#EXTINF:-1,PRO 100 TV 
+http://82.193.71.93:80/Pro100TvRuSattelite/video.m3u8
+#EXTINF:-1,Sony Channel
+http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/559/index.m3u8
+#EXTINF:-1,TV 1000 Action
+http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:-1,Афонтово
+http://stream.afontovo.ru/afontovo.m3u8
+#EXTINF:-1,КиноЗаказ
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1,Akudji tv
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Зарубежная киноклассика
+http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
+#EXTINF:-1,Советская киноклассика
+http://streams.tv.mts.by/soviet_classic/1/index.m3u8
+#EXTINF:-1,Индийская киноклассика
+http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
+#EXTINF:-1,Классика Голливуда
+http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
+#EXTINF:-1,Ужасы
+http://autopilot.myowntv.org/content/35026/index.m3u8
+#EXTINF:-1,Кинопоказ
+http://31.130.23.243:81/udp/238.1.2.112:1234
+#EXTINF:-1,Киносвидание
+http://persik.by/stream/7840/308733/10331.m3u8
+#EXTINF:-1,НТВ Сериал
+http://88.216.48.14:80/ntvserial/live.m3u8
+#EXTINF:-1,Русский Бестселлер
+http://stream.euroasia.lfstrm.tv/russkiy_bestseller/1/index.m3u8
+#EXTINF:-1,Красная Линия
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1,Смайлик ТВ
+http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,Indiuskoe kino
+http://109.171.69.200:81/udp/239.54.6.154:1224
+#EXTINF:-1,Russkiy Illuzion
+http://109.171.69.200:81/udp/239.54.6.161:1224
+#EXTINF:-1,Illuzion +
+http://109.171.69.200:81/udp/239.54.6.162:1224
+#EXTINF:-1,Muzhskoe Kino
+http://109.171.69.200:81/udp/239.54.6.1:1224
