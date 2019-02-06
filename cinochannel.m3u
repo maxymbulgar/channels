@@ -1,0 +1,116 @@
+﻿#EXTM3U
+#EXTINF:-1,1 Мистический
+http://93.88.75.204:999/tv/mistika/index.m3u8
+#EXTINF:-1,Akudji
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,BOX Cinema HD
+http://hls.goodgame.ru/hls/120729.m3u8
+#EXTINF:-1,FILMYSTIC HD
+http://hls.goodgame.ru/hls/152833.m3u8
+#EXTINF:-1,HORROR
+http://v2.myowntv.org/content/35026/index.m3u8
+#EXTINF:-1,KinoBOOM
+http://v2.myowntv.org/content/35448/index.m3u8
+#EXTINF:-1,STR TV
+https://cdnnow.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,TV1000
+http://185.93.3.83:5007/play/a00c
+#EXTINF:-1,TV1000 Action
+http://185.93.3.83:5007/play/a00e
+#EXTINF:-1,TV1000 русское кино
+http://185.93.3.83:5007/play/a00d
+#EXTINF:-1,VIP Comedy HD
+http://91.210.24.70:88/tv_vip_comedy_HD/video.m3u8
+#EXTINF:-1,ViP COMEDY
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288433562/index.m3u8
+#EXTINF:-1,ViP SERIAL
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288404097/index.m3u8
+#EXTINF:-1,ViP PREMIERE
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+#EXTINF:-1,ViP MEGAHIT
+https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8?md5=aQJr8zCU2qyjrTrqnmqEQQ&e=1541405785&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1,TV1000 Русское кино
+https://hls-viasat.cdnvideo.ru/hls/relay/1501746776693/index.m3u8?md5=r5EURcgBubQtJ4BaVkac3w&e=1541405876&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1,TV1000 Action
+http://hls-viasat.cdnvideo.ru/hls/relay/1501746762845/index.m3u8?md5=B-eCekcNCnOJnHoAgZwuWg&e=1541405905&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1,TV1000
+https://hls-viasat.cdnvideo.ru/hls/relay/1501748975889/index.m3u8?md5=6Glv0RouTMBCVNfnPubMag&e=1541405843&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1,ІНДИГО
+http://95.67.49.203:9990/Indigo
+#EXTINF:-1,Бокс ТВ
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
+#EXTINF:-1,Детский мир
+http://185.93.3.83:5007/play/a00s
+#EXTINF:-1,Дом кино
+http://185.93.3.83:5007/play/a00t
+#EXTINF:-1,Дом_кино
+http://213.59.140.52:9999/play/Dom_kino/index.m3u8
+#EXTINF:-1,Любимое_кино
+http://213.59.140.52:9999/play/Ljubimoe_kino/index.m3u8
+#EXTINF:-1,Еврокино
+http://185.93.3.83:5007/play/a001
+#EXTINF:-1,Кино ТВ
+http://89.223.46.189:8080/kino-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,КиноЗаказ
+#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/114023.m3u8
+#EXTINF:-1,Кинозал Зарубежная киноклассика
+http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
+#EXTINF:-1,Кинозал Индийская киноклассика
+http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
+#EXTINF:-1,Кинозал Классика Голливуда
+http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
+#EXTINF:-1,Кинозал Советская киноклассика
+http://streams.tv.mts.by/soviet_classic/1/index.m3u8
+#EXTINF:-1,Киноклуб
+http://213.59.140.52:9999/play/Kinoklub/index.m3u8
+#EXTINF:-1,Кинопоказ HD 2
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1,Кинорейс 1 
+http://93.88.75.204:999/tv/reis01/index.m3u8
+#EXTINF:-1,Кинорейс 2 
+http://93.88.75.204:999/tv/reis02/index.m3u8
+#EXTINF:-1,Кинорейс 3 
+http://93.88.75.204:999/tv/reis03/index.m3u8
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,Fox
+http://89.223.46.189:8080/fox/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fox life
+http://89.223.46.189:8080/fox-life/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Киносвидание
+http://89.223.46.189:8080/kinoklub/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Киносемья
+http://89.223.46.189:8080/premiera/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Киносерия
+http://213.59.140.52:9999/play/Kinoserija/index.m3u8
+#EXTINF:-1,Мужское кино
+http://91.90.253.70:8080/CH745_std/index.m3u8
+#EXTINF:-1,Фильмы ужасов
+http://v2.myowntv.org/content/35026/index.m3u8
+#EXTINF:-1,Muzhskoe Kino
+http://109.171.69.200:81/udp/239.54.6.1:1224
+#EXTINF:-1,Indiuskoe kino
+http://109.171.69.200:81/udp/239.54.6.154:1224
+#EXTINF:-1,Illuzion +
+http://109.171.69.200:81/udp/239.54.6.162:1224
+#EXTINF:-1,Pro 100 TV
+http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+#EXTINF:-1,НСТ
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:-1,ТВ-3
+http://89.223.46.189:8080/tv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Телекафе
+http://ott-cdn.ucom.am/s56/index.m3u8
+#EXTINF:-1,Крапуз ТВ
+http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
+#EXTINF:-1,Любимое ТВ
+https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
+#EXTINF:-1,Discovery
+http://185.93.3.83:5007/play/a01l
+#EXTINF:-1,Рен ТВ International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:-1,Перец инт.
+http://streams.tv.mts.by/peretz_int/1/index.m3u8
+#EXTINF:-1,ТЕХНО МИКС
+http://v1.myowntv.org/content/34763/index.m3u8?token=vk.com/iptv_iptv
